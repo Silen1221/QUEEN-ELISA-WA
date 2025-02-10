@@ -7,7 +7,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || '',
-  ALIVE_REACT: '👋',
+  ALIVE_REACT: '😌',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
 ⏰ Now time is @time
@@ -28,9 +28,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: '💥_💥Ya👹️ka💥_💥',
+  OWNER_NUMBER: '94772173031',
+  SUDO: '94772173031',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
@@ -39,12 +39,12 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   STICKER_PACK: 'QUEEN ELISA',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
-  OWNER_R_EMOJI: '💻',
+  OWNER_R_EMOJI: '🥷',
   ALIVE_AS_GIF: false,//this only work for short videos
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
@@ -55,7 +55,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: true,
-  INBOX_BLOCK_MSG_SEND: true,
+  INBOX_BLOCK_MSG_SEND: ffalse,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,// disabled
